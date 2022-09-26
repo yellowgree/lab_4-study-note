@@ -6,6 +6,22 @@
   
 #### 2) cd and ls
   **cd** : change directory  
-  **ls** : list files and directories
+  **ls** : list files and directories   
+         arguments:   
+              (/  
+              .  
+              ..
+              ~  
+              /  
+              ./  
+              ../  )   
+              
+              
+##### 4) clear  
+
+####
+
+              
+            
   
   
