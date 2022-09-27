@@ -10,7 +10,7 @@
          arguments:   
 
 
- >     /        ---> root        
+ >     /         ---> root        
  >     .         ---> current directory      
  >     ..        ---> upper-level directory     
  >     ~         ---> home of current user     
@@ -53,10 +53,10 @@
   
   
 #### 5) Wildcards  
-  > \*       --> All filenames   
-  > g*      --> All filenames that begin with the charater "g"   
-  > b*.txt  --> All filenames that begin with the charater "b" and end with the charaters ".txt"
-  > Data??? ---> Any filename that begins with the charaters "Data" foloowed by 3 more charaters  
+  >    \*       --> All filenames    
+  >    g*      --> All filenames that begin with the charater "g"   
+  >    b*.txt  --> All filenames that begin with the charater "b" and end with the charaters ".txt"
+  >    Data??? ---> Any filename that begins with the charaters "Data" foloowed by 3 more charaters   
   
   
   
