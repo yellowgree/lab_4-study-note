@@ -7,7 +7,7 @@
 #### 2) cd and ls
  * **cd** : change directory  
  * **ls** : list files and directories   
-         arguments:   
+        **arguments:**
 
 
  >     /         ---> root        
@@ -37,8 +37,7 @@
 #### 2) mv  
   move files and directories or rename them
   
-  
-  
+ 
   
 #### 3) rm  
   delete files and directories 
@@ -53,10 +52,10 @@
   
   
 #### 5) Wildcards  
-  >    \*       --> All filenames    
-  >    g*      --> All filenames that begin with the charater "g"   
-  >    b*.txt  --> All filenames that begin with the charater "b" and end with the charaters ".txt"
-  >    Data??? ---> Any filename that begins with the charaters "Data" foloowed by 3 more charaters   
+  >       \*       --> All filenames    
+  >       g*      --> All filenames that begin with the charater "g"   
+  >       b*.txt  --> All filenames that begin with the charater "b" and end with the charaters ".txt"
+  >       Data??? ---> Any filename that begins with the charaters "Data" foloowed by 3 more charaters   
   
   
   
