@@ -8,14 +8,16 @@
  * **cd** : change directory  
  * **ls** : list files and directories   
          arguments:   
- >    (/        ---> root  
+ >    (
+ >    /        ---> root  
  >    .         ---> current directory  
  >    ..        ---> upper-level directory  
  >    ~         ---> home of current user  
  >    /[name]   ---> absolute path  
-      >    ./[name]  ---> relative path  
-          >    ../[name] ---> relative path  
-          >    )   
+ >    ./[name]  ---> relative path  
+ >    ../[name] ---> relative path  
+ >   
+ >     )   
               
               
 ##### 4) clear  
