@@ -7,8 +7,8 @@
 #### 2) cd and ls
  * **cd** : change directory  
  * **ls** : list files and directories   
- **arguments:**
-
+          *arguments:*  
+ 
 
  >     /         ---> root        
  >     .         ---> current directory      
@@ -23,6 +23,7 @@
 ##### 4) clear  
 
 
+----
 
 ### Manipulateion  
 
