@@ -8,13 +8,14 @@
   **cd** : change directory  
   **ls** : list files and directories   
          arguments:   
-              (/  
-              .  
-              ..  
-              ~    
-              /   
-              ./  
-              ../  )   
+              (/        ---> root  
+              .         ---> current directory  
+              ..        ---> upper-level directory  
+              ~         ---> home of current user  
+              /[name]   ---> absolute path  
+              ./[name]  ---> relative path  
+              ../[name] ---> relative path  
+              )   
               
               
 ##### 4) clear  
@@ -35,10 +36,13 @@
   make a new directory  
   
 #### 5) Wildcards  
-  *  
-  g*  
-  b*.txt  
+  *       --> All filenames   
+  g*      --> All filenames that begin with the charater "g"   
+  b*.txt  --> All filenames that begin with the charater "b" and end with the charaters ".txt"
+  Data??? ---> Any filename that begins with the charaters "Data" foloowed by 3 more charaters  
   
+#### help  / man / exit
+
 
               
             
